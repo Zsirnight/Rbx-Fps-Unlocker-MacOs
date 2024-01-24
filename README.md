@@ -1,3 +1,5 @@
+THIS TOOL IS ONLY FOR MACS AND MAC RELATED SYSTEMS
+
 simple tool thats uncaps roblox fps from 60 frames by changing the client setitngs | rerun after every roblox update
 
 DOES NOT SETS THE FPS TO A CERTAIN FRAME RATES
