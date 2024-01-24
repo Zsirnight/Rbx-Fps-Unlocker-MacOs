@@ -8,10 +8,11 @@ This program only gives the machine the abillity to reach the target fps in robl
 #Installation
 - Simple installation
 - Go to release
-- Install the zip file
-- Unzip it
-- Run the Unlocker(Executable File)
-- Go through the questions
-- Run roblox(make sure its closed before the prompt)
-- Your fps cap has now been changed
-  
+- Download Unlocker.py file
+- Make sure you have python installed if not go to -> https://www.python.org/downloads/
+- Right Click/Secondary Click on the Unlocker.py file
+- Select (Open With -> Python Launcher)
+
+  OR
+
+- Run it with terminal (if you know how)
